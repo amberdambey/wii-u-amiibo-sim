@@ -1,0 +1,1 @@
+				if (getPixelValue(x, y).Alpha!=1) col=new NotGX2Color((col.Red*col.Alpha)+(bgCol.Red*(1-col.Alpha)), (col.Green*col.Alpha)+(bgCol.Green*(1-col.Alpha)), (col.Blue*col.Alpha)+(bgCol.Blue*(1-col.Alpha)), 255);
