@@ -63,3 +63,6 @@ Notes: Every Amiibo figure will show the "not compatible" message.
 Notes: No Amiibo is recognized.
 
 3: Animal Crossing: Amiibo Festival
+
+2: Splatoon
+Notes: Amiibo is recognized in-game, but you can't unlock any content with it
