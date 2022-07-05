@@ -1,6 +1,11 @@
 # wii-u-amiibo-sim
 Emulate Wii U Amiibo files
 
+Notice
+------
+
+This homebrew is **not for public use yet**. As such, there probably won't be any releases or builds for others to use yet. At least, not any that are reliable. Due to [issue #2](https://github.com/amberdambey/wii-u-amiibo-sim/issues/2#issue-1294135485), I am unable to compile a stable build for this tool or release a public build which works for all console regions and SD cards. Also it doesn't seem the source code uploaded correctly. Most files seem to be empty.
+
 Screenshots
 -----------
 
@@ -79,3 +84,5 @@ Notes: No Amiibo is recognized.
 
 2: Splatoon
 Notes: Amiibo is recognized in-game, but you can't unlock any content with it
+
+?: Pokémon Rumble U
